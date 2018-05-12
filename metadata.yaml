@@ -1,0 +1,37 @@
+_repo: '----_24038'
+_version: 0.1.0
+alternative_title: Sunzi Suan Jing
+contributor:
+  translator:
+    agent_name: Li, Chunfeng
+    alias: 李淳風
+    birthdate: 602
+    deathdate: 670
+    gutenberg_agent_id: '26188'
+    url: http://www.gutenberg.org/2009/agents/26188
+    wikipedia: http://en.wikipedia.org/wiki/Li_Chunfeng
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sunzi, approximately 5th century
+    alias: 孫子
+    gutenberg_agent_id: '26189'
+    url: http://www.gutenberg.org/2009/agents/26189
+    wikipedia: http://en.wikipedia.org/wiki/Sun_Tzu_(mathematician)
+description: ''
+gutenberg_issued: '2007-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24038'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Mathematics, Chinese -- Early works to 1800'
+- !lcsh 'Arithmetic -- Early works to 1900'
+title: 孫子算經
+url: http://www.gutenberg.org/ebooks/24038
